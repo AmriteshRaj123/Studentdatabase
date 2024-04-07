@@ -1,4 +1,4 @@
-Title: Student Database Management System
+Title: Student Database Management System.  (DBMS)
 
 Description:
 
@@ -76,6 +76,6 @@ Suppose you want to add a new student named John with roll number 101, age 20, a
 
 
 
-Student Database Management System (DBMS)
+
 
 
