@@ -6,8 +6,23 @@ This Java program implements a simple Student Database Management System (DBMS) 
 
 
 
+Features:
+
+Add, View, and Search: Easily add, view, and search student records by roll number.
+Average Marks Calculation: Quickly calculate the average marks of all students in the database.
+User-friendly Interface: Intuitive menu-driven interface for seamless interaction.
+Error Handling: Implemented error handling for smooth execution.
 Usage:
 
+Add: Add new students with details like name, roll number, age, and marks.
+View: Display a list of all students along with their details.
+Search: Find specific students by their roll number.
+Calculate: Compute the average marks of all students.
+Exit: Terminate the program.
+
+
+
+Usage:
 
 1. Compile the program:
     javac student.java
@@ -15,9 +30,7 @@ Usage:
 2. Run the program:
     java student
 
-
 User Interface:
-
 
 The program provides the following options to the user:
 1. Add student
@@ -60,3 +73,9 @@ Note:
 
 Example:
 Suppose you want to add a new student named John with roll number 101, age 20, and marks 85. You would select option 1, enter the details as prompted, and the student will be added to the database. You can then view all students using option 2, search for a specific student using option 3, calculate the average marks of all students using option 4, or exit the program using option 5.
+
+
+
+Student Database Management System (DBMS)
+
+
